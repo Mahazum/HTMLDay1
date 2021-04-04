@@ -1,0 +1,18 @@
+HTML TOPICS:
+
+1. Heading
+2. Paragraph - Style Tags
+3. form
+4. Table
+5. Media
+6. img tag
+7. <a> anchor
+8. span tag
+9. iframe 
+10. list tag
+11. marquee
+12. div
+13. Semantic tag
+14. attributes 
+15. superscript and subscripts
+16. Canvas and svg
